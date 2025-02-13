@@ -133,7 +133,7 @@
 			height: 330rpx;
 			margin-right: 15rpx;
 			position: absolute;
-			top: 30%;
+			top: 425rpx;
 			left: 30%;
 			.pic{
 				height: 100%;
