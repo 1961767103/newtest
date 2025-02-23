@@ -5,11 +5,29 @@
 			"style": {
 				"navigationStyle": "custom"
 			}
+		},
+		{
+			"path" : "pages/zhenghun/zhenghun",
+			
+			"style" : 
+			{
+				"navigationStyle": "custom",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/review/review",
+			"style" : 
+			{
+				"navigationStyle": "custom",
+				"enablePullDownRefresh" : false
+			}
 		}
 	],
 	"globalStyle": {
 		"navigationBarTextStyle": "black",
-		"navigationBarTitleText": "uni-app"
+		"navigationBarTitleText": "dghost"
 	},
-	"uniIdRouter": {}
+	"uniIdRouter": {
+	}
 }
